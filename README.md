@@ -17,8 +17,6 @@
 
 ## Project
 
-- Jum Talk (팀, DB 설계 , 소켓 서버 구현)
-  - Java swing 기반 사주 , 타로 등 점술서비스 특화 GUI 채팅 서비스
 - Masuri (팀, DB 설계 , 메인페이지 , DB관련 객체 구현 )
   - JSP & MVC2 기반 전자기기 출장수리 서비스 
 - Pettime (팀, API 서버구현 , 일반사용자 페이지 SAP 구현)
