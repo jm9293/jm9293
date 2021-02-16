@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/jm9293/jm9293.svg)](http://hits.dwyl.com/jm9293/jm9293)
 
-##정민 : Web Programmer
+## 정민 : Web Programmer
 
 프론트엔드, 백엔드 모두 관심이 많으며 코딩을 즐기는 프로그래머입니다. 😊
 
