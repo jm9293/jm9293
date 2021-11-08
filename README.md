@@ -9,7 +9,7 @@
   - Kotlin (JAVA 8)
   - Oracle SQL & MySQL SQL
   - Spring (boot) & JSP
-  - Mybatis & JPA
+  - Mybatis & JPA & QueryDSL
   - AWS (EC2, S3, Route53)
 
 - Front-End
