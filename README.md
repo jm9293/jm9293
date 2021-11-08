@@ -1,19 +1,22 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjm9293%2Fjm9293&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-## 정민 : Web Programmer
+## 정민 : FullStack Web Developer
 
-프론트엔드, 백엔드 모두 관심이 많으며 코딩을 즐기는 프로그래머입니다. 😊
+프론트엔드, 백엔드 모두 관심이 많으며 코딩을 즐기는 개발자입니다. 😊
 
 ## Stack
-
-- JAVA 8
-- JavaScript(ES6) & jQurey
-- HTML5 & CSS3 & Bootstrap
+- Back-End
+- Kotlin (JAVA 8)
 - Oracle SQL & MySQL SQL
 - Spring (boot) & JSP
-- Vue.js
 - Mybatis & JPA
-- PHP 7
+- AWS (EC2, S3, Route53)
+
+- Front-End
+- Vue.js
+- Electron.js
+- JavaScript(ES6) & jQurey
+- HTML5 & CSS3 & Bootstrap
 
 ## Project
 
@@ -25,7 +28,6 @@
   - PHP 학습용 익명 게시판
 - [SpringStudy](https://github.com/jm9293/springstudy) (개인프로젝트 & 학습용)
   - Springboot + Jpa 학습용 게시판
-  - [AWS 바로가기](http://ec2-52-79-204-101.ap-northeast-2.compute.amazonaws.com:8080/) 
 
 ## Usable IDE
 
