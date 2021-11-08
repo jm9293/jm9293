@@ -6,17 +6,17 @@
 
 ## Stack
 - Back-End
-- Kotlin (JAVA 8)
-- Oracle SQL & MySQL SQL
-- Spring (boot) & JSP
-- Mybatis & JPA
-- AWS (EC2, S3, Route53)
+  - Kotlin (JAVA 8)
+  - Oracle SQL & MySQL SQL
+  - Spring (boot) & JSP
+  - Mybatis & JPA
+  - AWS (EC2, S3, Route53)
 
 - Front-End
-- Vue.js
-- Electron.js
-- JavaScript(ES6) & jQurey
-- HTML5 & CSS3 & Bootstrap
+  - Vue.js
+  - Electron.js
+  - JavaScript(ES6) & jQurey
+  - HTML5 & CSS3 & Bootstrap
 
 ## Project
 
